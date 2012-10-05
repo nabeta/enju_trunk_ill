@@ -6,9 +6,9 @@ require "enju_trunk_ill/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "enju_trunk_ill"
-  s.version     = EnjuTrunkIll::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
+  s.version     = 0.1
+  s.authors     = ["Emiko Tamiya"]
+  s.email       = ["tamiya.emiko@miraitsystems.jp"]
   s.homepage    = "TODO"
   s.summary     = "TODO: Summary of EnjuTrunkIll."
   s.description = "TODO: Description of EnjuTrunkIll."
