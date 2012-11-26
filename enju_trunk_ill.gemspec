@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = 0.1
   s.authors     = ["Emiko Tamiya"]
   s.email       = ["tamiya.emiko@miraitsystems.jp"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of EnjuTrunkIll."
-  s.description = "TODO: Description of EnjuTrunkIll."
+  s.homepage    = "https://github.com/nakamura-akifumi/enju_trunk"
+  s.summary     = "EnjuTrunkIll for EnjuTrunk"
+  s.description = "to do InterLibraryLoan"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
